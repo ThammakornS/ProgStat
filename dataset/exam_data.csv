@@ -1,0 +1,301 @@
+PID,Gender,Age,Response
+ID-1,1,20,good
+ID-2,0,55,Very good
+ID-3,0,45,poor
+ID-4,0,17,Very good
+ID-5,1,36,poor
+ID-6,1,39,average
+ID-7,1,45,good
+ID-8,1,47,Very good
+ID-9,1,30,below average
+ID-10,1,14,Very good
+ID-11,0,9,poor
+ID-12,0,29,poor
+ID-13,0,47,good
+ID-14,0,36,below average
+ID-15,0,37,Very good
+ID-16,0,46,good
+ID-17,1,57,average
+ID-18,1,12,good
+ID-19,1,28,Very good
+ID-20,1,22,good
+ID-21,1,38,poor
+ID-22,1,56,average
+ID-23,0,71,average
+ID-24,0,44,poor
+ID-25,1,35,average
+ID-26,1,77,below average
+ID-27,0,11,average
+ID-28,0,67,below average
+ID-29,1,58,below average
+ID-30,0,26,below average
+ID-31,0,55,average
+ID-32,0,63,below average
+ID-33,1,23,poor
+ID-34,0,70,below average
+ID-35,1,75,good
+ID-36,1,72,good
+ID-37,0,89,poor
+ID-38,0,52,average
+ID-39,0,70,Very good
+ID-40,0,79,poor
+ID-41,1,51,Very good
+ID-42,0,70,average
+ID-43,1,60,poor
+ID-44,0,22,below average
+ID-45,1,42,average
+ID-46,1,14,Very good
+ID-47,0,70,poor
+ID-48,0,62,average
+ID-49,1,17,average
+ID-50,0,25,below average
+ID-51,0,68,poor
+ID-52,1,43,Very good
+ID-53,0,69,good
+ID-54,0,23,average
+ID-55,1,52,good
+ID-56,1,36,below average
+ID-57,1,64,below average
+ID-58,0,61,average
+ID-59,0,26,good
+ID-60,1,36,poor
+ID-61,0,46,average
+ID-62,1,36,Very good
+ID-63,1,15,below average
+ID-64,1,48,below average
+ID-65,0,78,poor
+ID-66,1,45,good
+ID-67,0,46,poor
+ID-68,0,45,Very good
+ID-69,1,25,average
+ID-70,0,69,average
+ID-71,0,84,below average
+ID-72,1,23,poor
+ID-73,0,86,average
+ID-74,1,75,good
+ID-75,1,61,Very good
+ID-76,0,29,good
+ID-77,0,71,average
+ID-78,0,49,average
+ID-79,1,19,below average
+ID-80,1,44,Very good
+ID-81,1,35,average
+ID-82,1,39,average
+ID-83,1,25,below average
+ID-84,0,52,Very good
+ID-85,1,63,average
+ID-86,1,69,Very good
+ID-87,1,56,average
+ID-88,0,46,poor
+ID-89,0,79,poor
+ID-90,0,54,good
+ID-91,1,49,good
+ID-92,0,65,average
+ID-93,1,41,poor
+ID-94,1,13,average
+ID-95,1,62,Very good
+ID-96,1,85,below average
+ID-97,1,59,Very good
+ID-98,0,25,poor
+ID-99,1,65,Very good
+ID-100,0,14,good
+ID-101,1,27,poor
+ID-102,0,64,poor
+ID-103,1,27,below average
+ID-104,1,88,below average
+ID-105,1,12,poor
+ID-106,1,72,below average
+ID-107,0,59,poor
+ID-108,1,64,average
+ID-109,1,39,average
+ID-110,1,65,Very good
+ID-111,1,11,average
+ID-112,1,31,Very good
+ID-113,0,83,Very good
+ID-114,0,46,below average
+ID-115,1,41,Very good
+ID-116,0,56,good
+ID-117,1,22,below average
+ID-118,0,30,below average
+ID-119,1,82,good
+ID-120,0,20,average
+ID-121,1,26,poor
+ID-122,1,82,below average
+ID-123,1,89,Very good
+ID-124,0,85,poor
+ID-125,1,44,poor
+ID-126,0,56,poor
+ID-127,1,82,average
+ID-128,1,50,average
+ID-129,1,60,good
+ID-130,0,81,average
+ID-131,0,50,poor
+ID-132,1,44,poor
+ID-133,1,75,Very good
+ID-134,1,47,Very good
+ID-135,0,40,below average
+ID-136,0,76,average
+ID-137,0,15,average
+ID-138,1,51,Very good
+ID-139,1,65,poor
+ID-140,0,35,below average
+ID-141,1,78,Very good
+ID-142,1,45,below average
+ID-143,1,17,average
+ID-144,1,11,average
+ID-145,0,13,Very good
+ID-146,1,21,average
+ID-147,1,59,poor
+ID-148,0,75,good
+ID-149,1,65,good
+ID-150,0,51,poor
+ID-151,1,32,average
+ID-152,0,21,Very good
+ID-153,1,70,poor
+ID-154,1,23,Very good
+ID-155,1,27,Very good
+ID-156,0,46,good
+ID-157,0,37,average
+ID-158,1,81,below average
+ID-159,1,53,average
+ID-160,1,47,good
+ID-161,0,15,good
+ID-162,1,73,poor
+ID-163,0,65,poor
+ID-164,0,42,poor
+ID-165,0,65,Very good
+ID-166,1,26,poor
+ID-167,1,70,below average
+ID-168,0,65,average
+ID-169,1,79,average
+ID-170,0,31,Very good
+ID-171,0,24,average
+ID-172,1,85,Very good
+ID-173,0,51,good
+ID-174,1,82,poor
+ID-175,1,21,average
+ID-176,0,69,Very good
+ID-177,1,25,good
+ID-178,0,12,poor
+ID-179,0,24,below average
+ID-180,0,58,good
+ID-181,0,80,Very good
+ID-182,1,36,average
+ID-183,1,51,poor
+ID-184,1,51,below average
+ID-185,1,47,average
+ID-186,1,76,average
+ID-187,0,70,poor
+ID-188,1,32,below average
+ID-189,0,57,below average
+ID-190,1,25,poor
+ID-191,1,17,below average
+ID-192,1,24,poor
+ID-193,0,26,poor
+ID-194,1,88,poor
+ID-195,1,53,below average
+ID-196,1,53,below average
+ID-197,1,20,below average
+ID-198,0,81,good
+ID-199,0,87,poor
+ID-200,1,25,Very good
+ID-201,1,17,poor
+ID-202,0,11,below average
+ID-203,0,77,good
+ID-204,0,40,below average
+ID-205,0,88,poor
+ID-206,0,40,Very good
+ID-207,1,80,average
+ID-208,0,51,good
+ID-209,1,84,poor
+ID-210,0,71,Very good
+ID-211,0,39,average
+ID-212,1,53,good
+ID-213,0,59,poor
+ID-214,0,35,average
+ID-215,0,19,average
+ID-216,0,55,average
+ID-217,1,59,poor
+ID-218,1,51,good
+ID-219,1,76,average
+ID-220,1,16,Very good
+ID-221,0,67,poor
+ID-222,0,72,average
+ID-223,0,87,below average
+ID-224,1,32,poor
+ID-225,1,14,average
+ID-226,0,27,Very good
+ID-227,0,22,Very good
+ID-228,1,37,below average
+ID-229,1,36,poor
+ID-230,1,47,Very good
+ID-231,1,25,below average
+ID-232,0,53,poor
+ID-233,0,75,below average
+ID-234,0,59,Very good
+ID-235,1,85,Very good
+ID-236,0,54,good
+ID-237,0,46,good
+ID-238,0,64,average
+ID-239,0,27,below average
+ID-240,1,46,below average
+ID-241,1,58,average
+ID-242,1,60,poor
+ID-243,1,79,average
+ID-244,0,17,good
+ID-245,0,59,good
+ID-246,1,45,poor
+ID-247,0,13,average
+ID-248,0,11,poor
+ID-249,0,19,Very good
+ID-250,0,72,good
+ID-251,0,69,average
+ID-252,0,65,good
+ID-253,0,84,average
+ID-254,1,81,below average
+ID-255,0,25,Very good
+ID-256,0,72,below average
+ID-257,0,13,Very good
+ID-258,1,74,average
+ID-259,0,48,good
+ID-260,1,18,Very good
+ID-261,1,15,Very good
+ID-262,0,60,average
+ID-263,0,80,good
+ID-264,1,54,average
+ID-265,0,42,below average
+ID-266,0,46,Very good
+ID-267,1,37,good
+ID-268,1,40,poor
+ID-269,1,74,poor
+ID-270,1,42,poor
+ID-271,1,35,Very good
+ID-272,0,53,Very good
+ID-273,0,53,below average
+ID-274,0,77,poor
+ID-275,1,87,average
+ID-276,1,62,Very good
+ID-277,0,74,good
+ID-278,0,72,poor
+ID-279,0,72,poor
+ID-280,0,87,good
+ID-281,1,53,Very good
+ID-282,1,18,Very good
+ID-283,0,69,poor
+ID-284,0,22,poor
+ID-285,1,77,average
+ID-286,1,21,below average
+ID-287,0,20,below average
+ID-288,1,73,poor
+ID-289,1,55,good
+ID-290,0,75,average
+ID-291,1,69,Very good
+ID-292,0,36,average
+ID-293,1,59,poor
+ID-294,1,61,good
+ID-295,1,37,good
+ID-296,0,75,Very good
+ID-297,1,65,Very good
+ID-298,0,62,good
+ID-299,1,31,average
+ID-300,0,74,below average
